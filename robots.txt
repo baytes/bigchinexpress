@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /assets/mailer/
+Disallow: /assets/php/
+Allow: /
